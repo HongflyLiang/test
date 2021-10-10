@@ -8,7 +8,7 @@ class Test2ApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println();
+        System.out.println("测试master");
     }
 
 }
